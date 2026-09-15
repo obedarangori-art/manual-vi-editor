@@ -1,1 +1,1 @@
-# -manual-vi-editor-
+# manual-vi-editor
