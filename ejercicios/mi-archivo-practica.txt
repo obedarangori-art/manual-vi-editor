@@ -1,1 +1,5 @@
-
+Hola, este es mi archivo de práctica con vi.
+Voy a practicar moverme con h, j, k, l.
+Voy a practicar borrar esta línea con dd.
+Voy a practicar copiar esta línea con yy y pegarla con p.
+Fin del archivo de práctica.
